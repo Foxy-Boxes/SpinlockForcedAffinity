@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUncoupled.a  CMakeFiles/Uncoupled.dir/Uncoupled.cpp.o
+/usr/bin/ranlib libUncoupled.a

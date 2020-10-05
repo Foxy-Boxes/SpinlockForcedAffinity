@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cacoethes/CLionProjects/Uncoupled/Uncoupled.cpp
+Uncoupled.h
+/home/cacoethes/CLionProjects/Uncoupled/Uncoupled.h
+iostream
+-
+
+/home/cacoethes/CLionProjects/Uncoupled/Uncoupled.h
+atomic
+-
+thread
+-
+

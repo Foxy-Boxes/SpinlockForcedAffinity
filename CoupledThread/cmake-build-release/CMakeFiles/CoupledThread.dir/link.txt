@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCoupledThread.a  CMakeFiles/CoupledThread.dir/CoupledThread.cpp.o
+/usr/bin/ranlib libCoupledThread.a

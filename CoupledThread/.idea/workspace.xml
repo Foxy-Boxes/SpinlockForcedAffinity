@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CoupledThread" targetName="CoupledThread" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14cd0f85-bc95-4ff0-946f-2ef807c82533" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="x7phdbje" />
+  </component>
+  <component name="ProjectId" id="1hUuLJWCCHOxGMjVSaauUSIlyT0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CoupledThread" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CoupledThread" TARGET_NAME="CoupledThread" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14cd0f85-bc95-4ff0-946f-2ef807c82533" name="Default Changelist" comment="" />
+      <created>1600077934606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600077934606</updated>
+      <workItem from="1600077936624" duration="22474000" />
+      <workItem from="1600595911863" duration="115000" />
+      <workItem from="1600598794003" duration="18000" />
+      <workItem from="1600599259657" duration="889000" />
+      <workItem from="1600695189537" duration="80000" />
+      <workItem from="1600695376984" duration="12776000" />
+      <workItem from="1600724389038" duration="756000" />
+      <workItem from="1600793440833" duration="4891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="54" key="#CoupledThread" timestamp="1600801320595">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="285" y="54" key="#CoupledThread/0.0.1366.768@0.0.1366.768" timestamp="1600801320595" />
+    <state x="140" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600158651847">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="140" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1600158651847" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1600695615521">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1600695615521" />
+    <state x="103" y="0" key="SettingsEditor" timestamp="1600158714935">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="103" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1600158714935" />
+    <state x="575" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600710387567">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="575" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1600710387567" />
+  </component>
+</project>

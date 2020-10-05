@@ -1,0 +1,4 @@
+/opt/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/cacoethes/CLionProjects/CoupledThread
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cacoethes/CLionProjects/CoupledThread/cmake-build-release

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cacoethes/CLionProjects/CoupledThread/CoupledThread.cpp
+CoupledThread.h
+/home/cacoethes/CLionProjects/CoupledThread/CoupledThread.h
+iostream
+-
+cassert
+-
+
+/home/cacoethes/CLionProjects/CoupledThread/CoupledThread.h
+atomic
+-
+thread
+-
+windows.h
+-
+unistd.h
+-
+
